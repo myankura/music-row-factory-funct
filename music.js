@@ -46,7 +46,7 @@ const createPopArtist = (name, age) => ({
 const bruceAtikins = createCountryArtist("Bruce Atkins", 23);
 const avileeDallas = createCountryArtist("Avilee Dallas", 19);
 //pop artists
-const jensenBrown = createPopArtist("Avilee Dallas", 20);
+const jensenBrown = createPopArtist("Jensen Brown", 20);
 const austinKinkaid = createPopArtist("Austin Kinkaid", 22);
 //funk artists
 const dreFunkz = createFunkArtist("Dre Funkz", 25);
